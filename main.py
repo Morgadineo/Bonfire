@@ -68,4 +68,5 @@ async def on_message_delete(message):
 # keep_alive()
 
 if __name__ == '__main__':
-    client.run('MTAwODIyMzk5MzQ5NDUxOTg2OA.GVrLaU.yY5Cps3UXsLZYGUZoAfYhqmnrjcquPWp-o1MfU')
+    client.run('Token do Bot') # Essa informação deve ficar privada, pois compromete a integridade do BOT.
+    
